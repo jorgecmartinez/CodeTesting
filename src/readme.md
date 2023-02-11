@@ -10,4 +10,4 @@ has any right to find fault with a man who chooses to enjoy a pleasure that has 
 or one who avoids a pain that produces no resultant pleasure?"
 
 ¿Qué pasa si cambio algo del código?
-Pues que se añade sin ningún problema
+Pues que se añade sin ningún problema.
